@@ -1,0 +1,10 @@
+{
+  "name": "cal-todo",
+  "version": "0.0.0",
+  "description": "Simple calculator application.",
+  "main": "server.js",
+  "author": "Saurabh",
+  "dependencies": {
+    "express": "~4.7.2"
+  }
+}
